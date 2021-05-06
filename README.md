@@ -1,6 +1,8 @@
 Hi, I'm Fernando Oliveira 👋
-Full-Stack developer in development
 QA Analyst
+
+Full-Stack developer in development
+
 
 Computer Engineer💻
 
