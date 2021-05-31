@@ -8,7 +8,7 @@ Computer Engineer💻
 
 About me 👨‍💻
 
-📚 I’m currently learning Node.Js, and always improving my Flutter skills
+📚 I’m currently learning Node.Js and React Native, and always improving my Flutter skills
 
 🧐 I’m currently acting as a QA analyst
 
