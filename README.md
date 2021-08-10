@@ -8,9 +8,9 @@ QA Engineer💻
 
 About me 👨‍💻
 
-📚 I’m currently learning Dart, and always improving my Java skills
+📚 I’m currently learning Dart, and always improving my Java skills.
 
-🧐 I’m currently acting as a QA analyst
+🧐 I’m currently acting as a QA analyst.
 
 ⚡ Technologies: Dart, Java, Gherkin, Rest Assured, jUnit, Appium, Selenium.
 
