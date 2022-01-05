@@ -1,18 +1,16 @@
 Hi, I'm Fernando Oliveira 👋
 
 
-Quality Assurance developer in development
+Back-end Software Developer in development
 
-
-QA Engineer💻
 
 About me 👨‍💻
 
 📚 I’m currently learning Dart, and always improving my Java skills.
 
-🧐 I’m currently acting as a QA analyst.
+🧐 I’m currently acting as a Back-end Software Developer.
 
-⚡ Technologies: Dart, Java, Gherkin, Rest Assured, jUnit, Appium, Selenium.
+⚡ Technologies: Dart, Java, Gherkin.
 
 <div>
   <a href="https://github.com/brouklins">
