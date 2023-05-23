@@ -1,9 +1,5 @@
 Hi, I'm Fernando Oliveira 👋
 
-
-Backend Software Developer in development
-
-
 About me 👨‍💻
 
 🧐 I’m currently acting as a Backend Software Developer.
